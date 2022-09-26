@@ -171,36 +171,39 @@ https://github.com/Billie-LS/FinTech_Homeworks/tree/homework3
 ### **Author**
 
 Loki 'billie' Skylizard
-
-   [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
-
-   [@GitHub](https://github.com/Billie-LS)
+    [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
+    [@GitHub](https://github.com/Billie-LS)
 
 
 ### **BootCamp lead instructor**
 
 Vinicio De Sola
-[@GitHub](https://github.com/penpen86)
+    [LinkedIn](https://www.linkedin.com/in/vinicio-desola-jr86/)
+    [@GitHub](https://github.com/penpen86)
 
 
 ### **BootCamp teaching assistants**
 
 Corey Recai
+    [LinkedIn](https://www.linkedin.com/in/corey-recai/)
 
 Santiago Pedemonte
-[@GitHub](https://github.com/Santiago-Pedemonte)
+    [LinkedIn](https://www.linkedin.com/in/s-pedemonte/)
+    [@GitHub](https://github.com/Santiago-Pedemonte)
 
 
 ### **BootCamp classmates**
 
 Stratis Gavnoudias
-[@GitHub](https://github.com/sgavnoudias)
+    [LinkedIn](https://www.linkedin.com/in/stratis-gavnoudias-465b527/)
+    [@GitHub](https://github.com/sgavnoudias)
 
 
 ### **Slack application, student support services via 'askBCS'**
 
 Roberto Salazar
-[@GitHub](https://github.com/rsalaza4)
+    [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/)
+    [@GitHub](https://github.com/rsalaza4)
 
 Mark S.
 
